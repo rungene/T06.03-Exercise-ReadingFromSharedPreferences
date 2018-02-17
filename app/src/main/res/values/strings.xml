@@ -9,11 +9,26 @@
 
     <!-- Add Strings for checkboxes-->
 
+    <!--label for the show mid raange checkbox preference-->
+
+    <!-- Label for the show bass checkbox preference-->
+    <string name="pref_show_mid_range_label"  >Show Mid Range</string>
+
+    <!-- Key name for storing mid range in SharedPreferences -->
+    <string name="pref_show_mid_range_key" translatable="false">show_mid_range</string>
+
+    <!-- Label for the show treble checkbox preference-->
+    <string name="pref_show_treble_label"  >Show Bass</string>
+
+    <!-- Key name for storing treble in SharedPreferences -->
+    <string name="pref_show_bass_key" translatable="false">show_bass</string>
+
+
     <!-- Label for the show bass checkbox preference-->
     <string name="pref_show_bass_label"  >Show Bass</string>
 
     <!-- Key name for storing bass in SharedPreferences -->
-    <string name="pref_show_bass_key" translatable="false">show_bass</string>
+    <string name="pref_show_treble_key" translatable="false">show_treble</string>
 
     <!-- Summary for Checkboxes -->
 
